@@ -59,7 +59,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 | 6|P||Exercises on Algebraic types, pattern matching.|
 | 7|15/4|Q&A||
 | 7|16/4|||
-| 7|15/4, or 16/4|First Test (40%)||
+| 7|16/4|First Test (40%)||
 | 7|P|||
 | 8|22/4|Examples of inductive types: Binary search trees, N-ary trees.||
 | 8|23/4|||
@@ -80,7 +80,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 | 12|-|||
 | 13|27/5|Interpreters||
 | 13|28/5|Q&A||
-| 13|30/5 or 31/5|Second Test (60%)||
+| 13|30/5|Second Test (60%)||
 | 13|-|||
 | 14|3/6|||
 | 14|4/6|||

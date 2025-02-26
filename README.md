@@ -64,7 +64,7 @@ O plano tentativo para as aulas é o seguinte (pode haver mudanças a qualquer a
 |
 | 7 | 14/4 | Q&A | |
 | 7 | 17/4 | (Férias Páscoa) | |
-| 7 | 15/4, ou 16/4  | Primeiro Teste (40%) | |
+| 7 | 16/4  | Primeiro Teste (40%) | |
 | 7 | P  | | |
 |
 | 8 | 21/4 | (Férias Páscoa) | |
@@ -92,7 +92,7 @@ O plano tentativo para as aulas é o seguinte (pode haver mudanças a qualquer a
 |
 | 13 | 26/5 | Interpretadores | |
 | 13 | 29/5 | Q&A | |
-| 13 | 30/5 ou 31/5 | Segundo Teste (60%) | |
+| 13 | 30/5| Segundo Teste (60%) | |
 | 13 | -  | | |
 |
 | 14 | 2/6 | | Entrega Terceiro Trabalho | 
