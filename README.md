@@ -50,6 +50,7 @@ e-mail nos seguintes locais e usando os respetivos contatos:
 | Carla Ferreira | | carla.ferreira@fct.unl.pt |
 | Artur Miguel Dias | | amd@fct.unl.pt |
 | Ana Catarina Ribeiro | 3ª-feira 14h (TBD) | acm.ribeiro@campus.fct.unl.pt | 
+| Hugo Pereira | 4ª-feira 09h (TBD) | hg.pereira@campus.fct.unl.pt |
 
 ## Programa
 
