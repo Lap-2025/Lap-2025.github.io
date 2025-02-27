@@ -49,6 +49,7 @@ e-mail nos seguintes locais e usando os respetivos contatos:
 | João Costa Seco | 4ª-feira 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt |
 | Carla Ferreira | | carla.ferreira@fct.unl.pt |
 | Artur Miguel Dias | | amd@fct.unl.pt |
+| Ana Catarina Ribeiro | 3ª-feira 14h (TBD) | acm.ribeiro@campus.fct.unl.pt | 
 
 ## Programa
 
