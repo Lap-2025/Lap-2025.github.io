@@ -209,10 +209,10 @@ criados na sua máquina.
 Para criar um switch para **LAP**, deve executar o seguinte comando:
 
 ```console
-opam switch create lap2024 ocaml-base-compiler.4.14.0
+opam switch create lap2025 ocaml-base-compiler.4.14.0
 ```
 
-Este comando irá criar um switch com o nome *lap2024* cuja versão subjacente do
+Este comando irá criar um switch com o nome *lap2025* cuja versão subjacente do
 compilador OCaml é a 4.14.0.
 
 ```{tip}
@@ -239,7 +239,7 @@ O resultado deve ter o seguinte aspecto:
 
 ```console
 #     switch                         compiler                       description
-->    lap2024                        ocaml-base-compiler.4.14.0      lap2024
+->    lap2025                        ocaml-base-compiler.4.14.0      lap2025
 ```
 
 Poderá conter outras linhas, caso tenha já feito desenvolvimento OCaml
@@ -250,7 +250,7 @@ anteriormente. Deverá prestar particular atenção aos seguintes pontos:
   resolver este problema, caso o observe.
 
 - Deve ser apresentada a seta `->` na primeira coluna à esquerda do switch
-  `lap2024`.
+  `lap2025`.
 
 - O switch deve apresentar o nome correcto, assim como a versão 4.14.0 do
   compilador.
@@ -385,13 +385,13 @@ diferentes fontes de erro e por merece o esforço adicional.
   dentro do sistema WSL, e não da PowerShell ou Cmd.
 
 - Navegue até uma diretoria à sua escolha, preferencialmente uma subdiretoria da
-  sua pasta HOME. Para criar uma subdiretoria `lap2024`, onde poderá armazenar
+  sua pasta HOME. Para criar uma subdiretoria `lap2025`, onde poderá armazenar
   todo o desenvolvimento feito nesta Unidade Curricular, pode utilizar os
   seguintes comandos:
 
   ```console
-  mkdir ~/lap2024
-  cd ~/lap2024
+  mkdir ~/lap2025
+  cd ~/lap2025
   ```
 
   Nesta diretoria lance o VS Code, utilizando o seguinte comando:
