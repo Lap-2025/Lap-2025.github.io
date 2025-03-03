@@ -1,9 +1,10 @@
-# Linguagens e Ambientes de Programação (Edição 2025)
+# Linguagens e Ambientes de Programação (2025 Edition)
 
 (Para ler esta página em português, clique [aqui](README.md))
 
 The curriculum of this course covers the fundamentals of programming language design, using functional programming in OCaml as a vehicle for a broader understanding of the concepts.
 
+Corrections and suggestions are very much welcomed. (e-mail: i.chirica \<at> campus.fct.unl.pt)
 
 ## Announcements
 
@@ -26,13 +27,13 @@ During lectures, references will be made to materials from other books freely av
 
 Office hours will be held by appointment via email at the following locations and contacts:
 
-| Teacher              | Office hours                 | E-mail                        |
-|----------------------|------------------------------|-------------------------------|
-| João Costa Seco      | Wednesday 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt          |
-| Carla Ferreira       |                              | carla.ferreira@fct.unl.pt     |
-| Artur Miguel Dias    |                              | amd@fct.unl.pt                |
-| Ana Catarina Ribeiro | Tuesday 14h (TBD)            | acm.ribeiro@campus.fct.unl.pt |
-| Hugo Pereira         | Wednesday 09h (TBD)          | hg.pereira@campus.fct.unl.pt  |
+| Teacher              | Office hours                 | E-mail                             |
+|----------------------|------------------------------|------------------------------------|
+| João Costa Seco      | Wednesday 17h (Gab. P2/1-II) | joao.seco \<at> fct.unl.pt          |
+| Carla Ferreira       |                              | carla.ferreira \<at> fct.unl.pt     |
+| Artur Miguel Dias    |                              | amd \<at> fct.unl.pt                |
+| Ana Catarina Ribeiro | Tuesday 14h (TBD)            | acm.ribeiro \<at> campus.fct.unl.pt |
+| Hugo Pereira         | Wednesday 09h (TBD)          | hg.pereira \<at> campus.fct.unl.pt  |
 
 ## Syllabus
 
@@ -40,53 +41,53 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 
 (The dates for the english version correspond to the lecture T1, and lab P1.)
 
-| Week| Date| Theoretical| Practical| Materials
-| -------- | -------- | -------- | -------- | -------- |
-| 1|5/3|Introduction. Logistics and evaluation. The history and future of programming languages.||
-| 1|P||No labs|
-| 2|11/3|Functional programming. The OCaml language. Expressions, Variables, and Types. Library functions. Basic Input/Output.||
-| 2|12/3|Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.||
-| 2|P||Kick the tyres: Tool installation. OCaml, Jupyter, VSCode + plugin.|
-| 3|18/3|Functions as values. Composition. Polymorphism. Type inference.||
-| 3|19/3|Function type; Polymorphism; Type inference.||
-| 3|P|||
-| 4|25/3|Recursive functions on natural numbers. Inductive vs. Iterative thinking.||
-| 4|26/3|Structured types: products and records. Exercises.||
-| 4|P|||
-| 5|1/4|Structured types: Lists and recursive functions on lists. Exercises.||
-| 5|2/4|Structured types: Higher-order programming: map and fold. Exercises. Presentation of the First Assignment.||
-| 5|P|||
-| 6|8/4|Algebraic types, pattern matching.||
-| 6|9/4|Inductive types. Inductive functions on inductive types.||
-| 6|P||Exercises on Algebraic types, pattern matching.|
-| 7|15/4|Q&A||
-| 7|16/4|||
-| 7|16/4|First Test (40%)||
-| 7|P|||
-| 8|22/4|Examples of inductive types: Binary search trees, N-ary trees.||
-| 8|23/4|||
-| 8|P|||
-| 8|27/4||Submission of the First Assignment|
-| 9|29/4|Presentation of the Second Assignment||
-| 9|30/4|(No Lecture - Expo FCT)||
-| 9|-|||
-| 10|6/5|Module System||
-| 10|7/5|Data mutability. Memoization.||
-| 10|-|||
-| 11|13/5|Asynchronous I/O, Concurrency, Promises.||
-| 11|14/5|Functional Reactive Programming.||
-| 11|P|||
-| 11|18/5||Submission of the Second Assignment|
-| 12|20/5|Presentation of the Third Assignment||
-| 12|21/5|Interpreters||
-| 12|-|||
-| 13|27/5|Interpreters||
-| 13|28/5|Q&A||
-| 13|30/5|Second Test (60%)||
-| 13|-|||
-| 14|3/6|||
-| 14|4/6|||
-| 14|2/6||Submission of the Third Assignment|
-| 14|-|||
+| Week | Date | Theoretical                                                                                                                                                                | Practical                                                                                     | Materials |
+|------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------|
+| 1    | 5/3  | Introduction. Logistics and evaluation. The history and future of programming languages.                                                                                   |                                                                                               |           |
+| 1    | P    |                                                                                                                                                                            | No labs. Though, we recommend you follow the [installation guide](praticas/en/install_en.md). |           |
+| 2    | 11/3 | Functional programming. The OCaml language. Expressions, Variables, and Types. Library functions. Basic Input/Output.                                                      |                                                                                               |           |
+| 2    | 12/3 | Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation. |                                                                                               |           |
+| 2    | P    |                                                                                                                                                                            | Kick the tyres: Tool installation. OCaml, Jupyter, VSCode + plugin.                           |           |
+| 3    | 18/3 | Functions as values. Composition. Polymorphism. Type inference.                                                                                                            |                                                                                               |           |
+| 3    | 19/3 | Function type; Polymorphism; Type inference.                                                                                                                               |                                                                                               |           |
+| 3    | P    |                                                                                                                                                                            |                                                                                               |           |
+| 4    | 25/3 | Recursive functions on natural numbers. Inductive vs. Iterative thinking.                                                                                                  |                                                                                               |           |
+| 4    | 26/3 | Structured types: products and records. Exercises.                                                                                                                         |                                                                                               |           |
+| 4    | P    |                                                                                                                                                                            |                                                                                               |           |
+| 5    | 1/4  | Structured types: Lists and recursive functions on lists. Exercises.                                                                                                       |                                                                                               |           |
+| 5    | 2/4  | Structured types: Higher-order programming: map and fold. Exercises. Presentation of the First Assignment.                                                                 |                                                                                               |           |
+| 5    | P    |                                                                                                                                                                            |                                                                                               |           |
+| 6    | 8/4  | Algebraic types, pattern matching.                                                                                                                                         |                                                                                               |           |
+| 6    | 9/4  | Inductive types. Inductive functions on inductive types.                                                                                                                   |                                                                                               |           |
+| 6    | P    |                                                                                                                                                                            | Exercises on Algebraic types, pattern matching.                                               |           |
+| 7    | 15/4 | Q&A                                                                                                                                                                        |                                                                                               |           |
+| 7    | 16/4 |                                                                                                                                                                            |                                                                                               |           |
+| 7    | 16/4 | First Test (40%)                                                                                                                                                           |                                                                                               |           |
+| 7    | P    |                                                                                                                                                                            |                                                                                               |           |
+| 8    | 22/4 | Examples of inductive types: Binary search trees, N-ary trees.                                                                                                             |                                                                                               |           |
+| 8    | 23/4 |                                                                                                                                                                            |                                                                                               |           |
+| 8    | P    |                                                                                                                                                                            |                                                                                               |           |
+| 8    | 27/4 |                                                                                                                                                                            | Submission of the First Assignment                                                            |           |
+| 9    | 29/4 | Presentation of the Second Assignment                                                                                                                                      |                                                                                               |           |
+| 9    | 30/4 | (No Lecture - Expo FCT)                                                                                                                                                    |                                                                                               |           |
+| 9    | -    |                                                                                                                                                                            |                                                                                               |           |
+| 10   | 6/5  | Module System                                                                                                                                                              |                                                                                               |           |
+| 10   | 7/5  | Data mutability. Memoization.                                                                                                                                              |                                                                                               |           |
+| 10   | -    |                                                                                                                                                                            |                                                                                               |           |
+| 11   | 13/5 | Asynchronous I/O, Concurrency, Promises.                                                                                                                                   |                                                                                               |           |
+| 11   | 14/5 | Functional Reactive Programming.                                                                                                                                           |                                                                                               |           |
+| 11   | P    |                                                                                                                                                                            |                                                                                               |           |
+| 11   | 18/5 |                                                                                                                                                                            | Submission of the Second Assignment                                                           |           |
+| 12   | 20/5 | Presentation of the Third Assignment                                                                                                                                       |                                                                                               |           |
+| 12   | 21/5 | Interpreters                                                                                                                                                               |                                                                                               |           |
+| 12   | -    |                                                                                                                                                                            |                                                                                               |           |
+| 13   | 27/5 | Interpreters                                                                                                                                                               |                                                                                               |           |
+| 13   | 28/5 | Q&A                                                                                                                                                                        |                                                                                               |           |
+| 13   | 30/5 | Second Test (60%)                                                                                                                                                          |                                                                                               |           |
+| 13   | -    |                                                                                                                                                                            |                                                                                               |           |
+| 14   | 3/6  |                                                                                                                                                                            |                                                                                               |           |
+| 14   | 4/6  |                                                                                                                                                                            |                                                                                               |           |
+| 14   | 2/6  |                                                                                                                                                                            | Submission of the Third Assignment                                                            |           |
+| 14   | -    |                                                                                                                                                                            |                                                                                               |           |
 
 (The assignment and test dates are provisional and may be subject to change.)
