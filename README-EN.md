@@ -26,11 +26,13 @@ During lectures, references will be made to materials from other books freely av
 
 Office hours will be held by appointment via email at the following locations and contacts:
 
-| Docente | Horário | E-mail |
-| -------- | -------- | -------- |
-| João Costa Seco | 4ª-feira 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt |
-| Carla Ferreira |  | carla.ferreira@fct.unl.pt |
-| Artur Miguel Dias |  | amd@fct.unl.pt |
+| Teacher              | Office hours                 | E-mail                        |
+|----------------------|------------------------------|-------------------------------|
+| João Costa Seco      | Wednesday 17h (Gab. P2/1-II) | joao.seco@fct.unl.pt          |
+| Carla Ferreira       |                              | carla.ferreira@fct.unl.pt     |
+| Artur Miguel Dias    |                              | amd@fct.unl.pt                |
+| Ana Catarina Ribeiro | Tuesday 14h (TBD)            | acm.ribeiro@campus.fct.unl.pt |
+| Hugo Pereira         | Wednesday 09h (TBD)          | hg.pereira@campus.fct.unl.pt  |
 
 ## Syllabus
 
@@ -43,7 +45,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 | 1|5/3|Introduction. Logistics and evaluation. The history and future of programming languages.||
 | 1|P||No labs|
 | 2|11/3|Functional programming. The OCaml language. Expressions, Variables, and Types. Library functions. Basic Input/Output.||
-2|12/3|Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.||
+| 2|12/3|Name declaration; function declaration, with and without parameters; Expression evaluation by substitution; Functions as values (first time); Partial function evaluation.||
 | 2|P||Kick the tyres: Tool installation. OCaml, Jupyter, VSCode + plugin.|
 | 3|18/3|Functions as values. Composition. Polymorphism. Type inference.||
 | 3|19/3|Function type; Polymorphism; Type inference.||
