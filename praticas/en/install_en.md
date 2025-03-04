@@ -506,4 +506,6 @@ installed OCaml kernel. If all these steps are successful, you should
 be able to explore the [Jupyter Notebook for this first
 week][kick-the-tires] of practical classes.
 
-[kick-the-tires]: kick_the_tires_en.ipynb
+[kick-the-tires]: kick_the_tires.ipynb
+
+
