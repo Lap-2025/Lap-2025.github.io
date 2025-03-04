@@ -25,7 +25,7 @@ Haverá referências durante as aulas a materiais de outros livros disponíveis 
 
 ## Atendimento Docente
 
-O Atendimento em horário de dúvidas será feito com marcação prévia por e-mail nos seguintes locais e usando os respetivos contatos:
+O Atendimento em horário de dúvidas será feito com marcação prévia por e-mail no dia anterior nos seguintes locais e usando os respetivos contatos:
 
 | Docente | Horário | E-mail |
 | -------- | -------- | -------- |

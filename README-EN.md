@@ -24,7 +24,7 @@ During lectures, references will be made to materials from other books freely av
 
 ## Instructors Office Hours
 
-Office hours will be held by appointment via email at the following locations and contacts:
+Office hours will be held by appointment via email the day before at the following locations and contacts:
 
 | Docente | Horário | E-mail |
 | -------- | -------- | -------- |
