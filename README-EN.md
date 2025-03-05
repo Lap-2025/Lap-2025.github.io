@@ -34,6 +34,8 @@ Office hours will be held by appointment via email the day before at the followi
 | Artur Miguel Dias    |                              | amd \<at> fct.unl.pt                |
 | Ana Catarina Ribeiro | Tuesday 14h (TBD)            | acm.ribeiro \<at> campus.fct.unl.pt |
 | Hugo Pereira         | Wednesday 09h (TBD)          | hg.pereira \<at> campus.fct.unl.pt  |
+| Tomás Galvão         | Wednesday 11h (TBD)          | t.galvao \<at> campus.fct.unl.pt    |
+
 
 ## Syllabus
 

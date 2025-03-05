@@ -52,6 +52,8 @@ O Atendimento em horário de dúvidas será feito com marcação prévia por e-m
 | Artur Miguel Dias    |                             | amd \<arroba> fct.unl.pt                |
 | Ana Catarina Ribeiro | 3ª-feira 14h (TBD)          | acm.ribeiro \<arroba> campus.fct.unl.pt |
 | Hugo Pereira         | 4ª-feira 09h (TBD)          | hg.pereira \<arroba> campus.fct.unl.pt  |
+| Tomás Galvão         | 4ª-feira 11h (TBD)          | t.galvao \<arroba> campus.fct.unl.pt  |
+
 
 ## Programa
 
