@@ -27,14 +27,14 @@ During lectures, references will be made to materials from other books freely av
 
 Office hours will be held by appointment via email the day before at the following locations and contacts:
 
-| Teacher              | Office hours                 | E-mail                             |
-|----------------------|------------------------------|------------------------------------|
-| João Costa Seco      | Monday 15h30 (P2/1-II) | joao.seco \<at> fct.unl.pt          |
-| Carla Ferreira       |                              | carla.ferreira \<at> fct.unl.pt     |
-| Artur Miguel Dias    |                              | amd \<at> fct.unl.pt                |
-| Ana Catarina Ribeiro | Tuesday 14h (TBD)            | acm.ribeiro \<at> campus.fct.unl.pt |
-| Hugo Pereira         | Wednesday 09h (TBD)          | hg.pereira \<at> campus.fct.unl.pt  |
-| Tomás Galvão         | Wednesday 11h (TBD)          | t.galvao \<at> campus.fct.unl.pt    |
+| Teacher              | Office hours                | E-mail                              |
+|----------------------|-----------------------------|-------------------------------------|
+| João Costa Seco      | Monday 15h30 (P2/1-II)      | joao.seco \<at> fct.unl.pt          |
+| Carla Ferreira       |                             | carla.ferreira \<at> fct.unl.pt     |
+| Artur Miguel Dias    | Wednesday 16h (room 120-II) | amd \<at> fct.unl.pt                |
+| Ana Catarina Ribeiro | Tuesday 14h (TBD)           | acm.ribeiro \<at> campus.fct.unl.pt |
+| Hugo Pereira         | Wednesday 09h (TBD)         | hg.pereira \<at> campus.fct.unl.pt  |
+| Tomás Galvão         | Wednesday 11h (TBD)         | t.galvao \<at> campus.fct.unl.pt    |
 
 
 ## Syllabus
