@@ -49,7 +49,7 @@ O Atendimento em horário de dúvidas será feito com marcação prévia por e-m
 |----------------------|-----------------------------|----------------------------------------|
 | João Costa Seco      | 4ª-feira 17h (Gab. P2/1-II) | joao.seco \<arroba> fct.unl.pt          |
 | Carla Ferreira       |                             | carla.ferreira \<arroba> fct.unl.pt     |
-| Artur Miguel Dias    |                             | amd \<arroba> fct.unl.pt                |
+| Artur Miguel Dias    | 4ª-feira 16h (sala 120-II)  | amd \<arroba> fct.unl.pt                |
 | Ana Catarina Ribeiro | 3ª-feira 14h (TBD)          | acm.ribeiro \<arroba> campus.fct.unl.pt |
 | Hugo Pereira         | 4ª-feira 09h (TBD)          | hg.pereira \<arroba> campus.fct.unl.pt  |
 | Tomás Galvão         | 4ª-feira 11h (TBD)          | t.galvao \<arroba> campus.fct.unl.pt  |
