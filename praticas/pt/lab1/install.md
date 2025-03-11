@@ -60,6 +60,15 @@ máquina. A configuração da BIOS depende de cada frabricante e modelo de
 computador. Uma pesquisa por `enable virtualization [manufacturer] [model]`
 deverá devolver resultados suficientes para resolver a questão.
 
+> [!WARNING] 
+> Caso não consiga ou escolha não utilizar o WSL, é possível instalar nativamente
+um ambiente para desenvolvimento de Ocaml no Windows 11, **porém** não irá
+conseguir fazer uso dos Jupyter Notebooks que serão usados nas aulas práticas,
+deste modo esta alternativa **não é recomendada e deverá apenas ser usada
+como último recurso**. Avance para a secção de [instalação](#instalação-opam) e siga as instruções
+denotadas como **(Nativo)** ao invés de **(WSL)** para instalar nativamente o ambiente
+de desenvolvimento no Windows. 
+
 
 A instalação do WSL completa-se da seguinte forma:
 
@@ -159,19 +168,24 @@ sudo port install opam
 
 [opam-install]: https://opam.ocaml.org/doc/Install.html
 
-**Windows.** Execute o seguinte comando a partir do Ubuntu:
+**Windows (WSL).** Execute o seguinte comando a partir do Ubuntu:
 
 ```console
 sudo apt install opam
 ```
 
+**Windows (Nativo).** Deverá abrir o PowerShell e executar o seguinte comando:
+```console
+winget install Git.Git OCaml.opam 
+```
+e reinicie o PowerShell.
 ## Inicialização do OPAM
 
 > [!WARNING]
 > Não deverá nunca utilizar o OPAM em modo super utilizador. Por outras
 palavras, não utilize o prefixo `sudo` em nenhum comando `opam`.
 
-**Linux, Mac e Windows (WLS).** Execute:
+**Linux, Mac, Windows (WLS) e Windows (Nativo).** Execute:
 
 ```console
 opam init --bare -a -y
@@ -213,7 +227,7 @@ compilador OCaml é a 4.14.0.
 disponível, então provavelmente instalou uma versão antiga do OPAM. Actualize o
 OPAM com o comando `opam update`.
 
-
+**Linux, Mac e Windows (WSL)**
 De seguida, ser-lhe-á pedido que execute o seguinte comando:
 
 ```console
@@ -221,8 +235,18 @@ eval $(opam env)
 ```
 
 Poderá fazê-lo, mas o mais importante neste ponto é que saia da sessão do seu
-Sistema Operativo (ou simplesmente reinicie a máquina). Abra novamente o
-terminal e execute o seguinte comando:
+Sistema Operativo (ou simplesmente reinicie a máquina). 
+
+**Windows (Nativo)**
+Execute o seguinte comando e de seguida saia da sessão do seu
+Sistema Operativo (ou simplesmente reinicie a máquina):
+
+```console
+"`n(& opam env --shell=powershell) | Invoke-Expression" | Add-Content -Path $PROFILE
+```
+---
+
+Abra novamente o terminal e execute o seguinte comando:
 
 ```console
 opam switch list
@@ -326,7 +350,7 @@ no menu `View`.
 
 De seguida, siga as seguintes instruções se estiver a utilizar Windows ou Mac:
 
-- **Windows:** instale a extensão "WSL".
+- **Windows (WSL):** instale a extensão "WSL".
 
 - **Mac:** abra a *Command Palette* e escreva `shell command` para encontrar o
   comando "Shell Command: Install 'code' command in PATH". Execute este comando.
@@ -336,7 +360,7 @@ qualquer terminal aberto (ou simplesmente saia da sessão ou reinicie a máquina
 de forma a que as novas configurações sejam efetivadas. Tal permitirá, mais
 tarde, lançar o VS Code a partir de um terminal.
 
-Quarto, e **apenas para os utilizadores Windows**, abra a *Command Palette* e
+Quarto, e **apenas para os utilizadores Windows (WSL)**, abra a *Command Palette* e
 execute o comando `WSL: Connect to WSL`. Este comando irá instalar software
 adicional. Assim que a execução do comando terminar, deverá observar um
 indicador com a mensagem "WSL: Ubuntu" em baixo à esquerda da janela do VS
@@ -368,7 +392,7 @@ reiniciar tantas vezes a máquina para que os efeitos de instalação de softwar
 se verifiquem. No entanto, este passo tem o potencial de detecar precocemente
 diferentes fontes de erro e por merece o esforço adicional.
 
-- Abra uma nova consola Unix. No **Windows:** trata-se da consola do Ubuntu
+- Abra uma nova consola Unix. No **Windows (WSL):** trata-se da consola do Ubuntu
   dentro do sistema WSL, e não da PowerShell ou Cmd.
 
 - Navegue até uma diretoria à sua escolha, preferencialmente uma subdiretoria da
@@ -494,3 +518,4 @@ todos estes passos forem bem sucessidos, deverá ser capaz de explorar o [Jupyte
 Notebook desta primeira semana][kick-the-tires] de aulas práticas.
 
 [kick-the-tires]: kick_the_tires.ipynb
+
