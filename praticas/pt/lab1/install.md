@@ -100,6 +100,11 @@ instalou a versão 22.04 do Ubuntu, a versão por omissão no WSL. À partida,
 qualquer versão mais recente desta distribuição também lhe permitirá seguir sem
 problemas o restante desta secção.
 
+> [!WARNING]
+> A partir deste ponto, certifique-se de que todos os comandos sejam executados 
+dentro do WSL (Windows Subsystem for Linux). Para garantir que está no ambiente
+correto:
+
 Abra a aplicação Ubuntu. Esta aplicação poderá já estar a executar, caso tenha
 acabado de instalar o WSL. Deverá ser-lhe apresentado o *Bash prompt*, uma
 consola com o seguinte aspecto:
