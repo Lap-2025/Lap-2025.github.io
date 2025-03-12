@@ -62,6 +62,17 @@ recent version of Windows, WSL is relatively simple to install.
 > virtualization [manufacturer] [model]` should return sufficient
 > results to resolve the issue.
 
+> [!WARNING]
+
+If you are unable or choose not to use WSL, it is possible to install a native
+OCaml development environment on Windows 11. **However**, you will not be able
+to use Jupyter Notebooks, which will be used in the practical lessons.
+
+Therefore, this alternative **is not recommended and should only be used
+as a last resort**. Proceed to the [installation section](#opam-installation) and follow the
+instructions labeled **(Native)** instead of **(WSL)** to install the development
+environment natively on Windows.
+
 The WSL installation is completed as follows:
 
 - Open Windows PowerShell as Administrator. To do this, click on
@@ -91,6 +102,10 @@ it.
 you installed Ubuntu version 22.04, the default version in WSL. Any
 more recent version of this distribution should also allow you to
 follow the rest of this section without problems.
+
+> [!WARNING]
+> At this point, make sure that all commands are executed within WSL
+> (Windows Subsystem for Linux). To ensure that you are on the right environment:
 
 Open the Ubuntu application. This application may already be running
 if you just installed WSL. You should be presented with the *Bash
@@ -160,11 +175,18 @@ sudo port install opam
 
 [opam-install]: https://opam.ocaml.org/doc/Install.html
 
-**Windows.** Run the following command from Ubuntu:
+**Windows (WSL).** Run the following command from Ubuntu:
 
 ```console
 sudo apt install opam
 ```
+
+**Windows (Native).** Open the Powershell and run the following command 
+
+```console
+winget install Git.git OCaml.opam
+```
+Afterwards, restart the Powershell.
 
 ## OPAM Initialization
 
@@ -172,7 +194,7 @@ sudo apt install opam
 > You should never use OPAM in super user mode. In other
 > words, do not use the `sudo` prefix with any `opam` command.
 
-**Linux, Mac, and Windows (WSL).** Run:
+**Linux, Mac, Windows (WSL) and Windows (Native).** Run:
 
 ```console
 opam init --bare -a -y
@@ -214,6 +236,7 @@ underlying version of the OCaml compiler is 4.14.0.
 > 4.14.0 is not available, then you probably installed an old version
 > of OPAM. Update OPAM with the command `opam update`.
 
+** Linux, Mac and Windows (WSL)**
 Next, you will be asked to run the following command:
 
 ```console
@@ -224,6 +247,17 @@ You can do this, but the most important thing at this point is to log
 out of your Operating System session (or simply restart the
 machine). Open the terminal again and run the following command:
 
+**Windows (Native)**
+Execute the following command and logout of your Operating System (or
+reboot the machine):
+
+``` console
+"`n(& opam env --shell=powershell) | Invoke-Expression" | Add-Content -Path $PROFILE
+```
+
+---
+
+Open the terminal and run the following command:
 ```console
 opam switch list
 ```
@@ -260,7 +294,7 @@ To install the OPAM packages we need for LAP, you should run the
 following command:
 
 ```console
-opam install -y utop odoc ounit2 qcheck bisect_ppx menhir ocaml-lsp-server ocamlformat
+opam install -y utop odoc ounit2 qcheck bisect_ppx menhir merlin ocaml-lsp-server ocamlformat
 ```
 
 The entire line above should be entered in the console, so you should
@@ -329,7 +363,7 @@ the following options:
 
 Next, follow these instructions if you are using Windows or Mac:
 
-- **Windows:** install the "WSL" extension.
+- **Windows (WSL):** install the "WSL" extension.
 
 - **Mac:** open the *Command Palette* and type `shell command` to find
   the command "Shell Command: Install 'code' command in PATH". Run
@@ -340,7 +374,8 @@ terminal (or simply log out or restart the machine) so that the new
 configurations take effect. This will allow, later, launching VS Code
 from a terminal.
 
-Fourth, and **only for Windows users**, open the *Command Palette* and
+Fourth, and **only for Windows (WSL) users**, open the *Command
+Palette* (shortcut: Ctrl + Shift + P) and
 run the command `WSL: Connect to WSL`. This command will install
 additional software. As soon as the command execution finishes, you
 should observe an indicator with the message "WSL: Ubuntu" at the
