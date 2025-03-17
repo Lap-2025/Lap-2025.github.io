@@ -22,11 +22,11 @@ Todo o processo de instalação se baseia fortemente na utilização do terminal
 (*consola*).
 
 ## Sistema de Desenvolvimento Unix
-> [!IMPORTANT]
+> [!IMPORTANT] 
 > Esta é uma óptima oportunidade para realizar uma actualização do seu Sistema
-Operativo. Em geral, é boa prática manter o Sistema Operativo e o software
-instalado actualizados, sobretudo antes de proceder à instalação de um conjunto
-consequente de novos programas.
+> Operativo. Em geral, é boa prática manter o Sistema Operativo e o software
+> instalado actualizados, sobretudo antes de proceder à instalação de um conjunto
+> consequente de novos programas.
 
 ## Linux
 
