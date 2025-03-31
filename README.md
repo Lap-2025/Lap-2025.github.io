@@ -75,7 +75,7 @@ qualquer altura):
 |4|P|Exercícios|[Exercícios](praticas/pt/lab3/lab3_typeinf_comp_corr_inductive.ipynb)||
 |5|31/3|[Tipos estruturados: Listas e funções recursivas sobre listas. Exercícios.](slides/pt/aula8.pdf)|||
 |5|3/4|Tipos estruturados: Programação de ordem superior: map e fold. Exercícios. Apresentação Primeiro Trabalho.|||
-|5|P|||||
+|5|P|Exercícios|[Exercícios](praticas/pt/lab4/lab4_prod_sum_types_recs_lists.ipynb)||
 |6|7/4|Tipos algébricos, pattern matching.|||
 |6|10/4|Tipos indutivos. Funções indutivas sobre tipos indutivos.|||
 |6|P||Exercícios de Tipos algébricos, pattern matching||
