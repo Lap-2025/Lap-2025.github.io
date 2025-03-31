@@ -53,10 +53,10 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |3|18/3|[Functions as values. Composition. Polymorphism. Type inference.](slides/en/lec4.pdf)|||
 |3|19/3|[Function type; Polymorphism; Type inference.](slides/en/lec5.pdf)|||
 |3|P|Exercises|[Exercises 1](praticas/en/lab2/lab2_basic_functions(1).ipynb) / [Exercises 2](praticas/en/lab2/lab2_io_unit_rec(2).ipynb)||
-|4|25/3|Recursive functions on natural numbers. Inductive vs. Iterative thinking.|||
-|4|26/3|Structured types: products and records. Exercises.|||
+|4|25/3|[Recursive functions on natural numbers. Inductive vs. Iterative thinking.](slides/en/lec6.pdf)|||
+|4|26/3|[Structured types: products and records. Exercises.](slides/en/lec7.pdf)|||
 |4|P|Exercises|[Exercises](praticas/en/lab3/lab3_typeinf_comp_corr_inductive.ipynb)||
-|5|1/4|Structured types: Lists and recursive functions on lists. Exercises.|||
+|5|1/4|[Structured types: Lists and recursive functions on lists. Exercises.](slides/en/lec8.pdf)|||
 |5|2/4|Structured types: Higher-order programming: map and fold. Exercises. Presentation of the First Assignment.|||
 |5|P|||||
 |6|8/4|Algebraic types, pattern matching.|||
