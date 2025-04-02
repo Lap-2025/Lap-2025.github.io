@@ -58,7 +58,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |4|P|Exercises|[Exercises](praticas/en/lab3/lab3_typeinf_comp_corr_inductive.ipynb)||
 |5|1/4|[Structured types: Lists and recursive functions on lists. Exercises.](slides/en/lec8.pdf)|||
 |5|2/4|Structured types: Higher-order programming: map and fold. Exercises. Presentation of the First Assignment.|||
-|5|P|||||
+|5|P|Exercises|[Exercises](praticas/en/lab4/lab4_prod_sum_types_recs_lists.ipynb)||
 |6|8/4|Algebraic types, pattern matching.|||
 |6|9/4|Inductive types. Inductive functions on inductive types.|||
 |6|P||Exercises on Algebraic types, pattern matching.||
