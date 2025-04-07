@@ -78,7 +78,7 @@ qualquer altura):
 |5|P|Exercícios|[Exercícios](praticas/pt/lab4/lab4_prod_sum_types_recs_lists.ipynb)||
 |6|7/4|[Tipos algébricos, pattern matching.](slides/pt/aula9.ipynb)|[Exercícios](slides/pt/aula9.ipynb)||
 |6|10/4|[Tipos indutivos. Funções indutivas sobre tipos indutivos. Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias](slides/pt/aula10.ipynb)|[Exercícios](slides/pt/aula10.ipynb)||
-|6|P||Exercícios de Tipos algébricos, pattern matching||
+|6|P|Exercícios|[Exercícios](praticas/pt/lab5/lab5_comb_higer_order_fun.ipynb)||
 |7|14/4|Q&A|||
 |7|16/4|Primeiro Teste (40%)|||
 |7|17/4|(Férias Páscoa)|||
