@@ -61,8 +61,8 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |5|P|Exercises|[Exercises](praticas/en/lab4/lab4_prod_sum_types_recs_lists.ipynb)||
 |6|8/4|[Algebraic types, pattern matching.](slides/en/lec9.ipynb)|[Exercises](slides/en/lec9.ipynb)||
 |6|9/4|[Inductive types. Inductive functions on inductive types.](slides/en/lec10.ipynb)|[Exercises](slides/en/lec10.ipynb)||
-|6|P||Exercises on Algebraic types, pattern matching.||
-|7|15/4|Q&A|||
+|6|P|Exercises|[Exercises](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
+|7|14/4|Q&A|[Midterm example](tests/t1/en/teste_modelo_2324.ipynb)/[Midterm 2024](tests/t1/en/t1-2324.ipynb)|[Midterm 2024 (Solution)](tests/t1/en/solutions/t1-2324-solutions.ipynb)|
 |7|16/4|||||
 |7|16/4|First Test (40%)|||
 |7|P|||||
