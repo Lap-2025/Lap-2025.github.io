@@ -84,7 +84,7 @@ qualquer altura):
 |7|17/4|(Férias Páscoa)|||
 |7|P|||||
 |8|21/4|(Férias Páscoa)|||
-|8|24/4|Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.|||
+|8|24/4|[Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula12.ipynb)|||
 |8|P|||||
 |8|27/4||Entrega Primeiro Trabalho||
 |9|28/4|Apresentação do segundo trabalho|||

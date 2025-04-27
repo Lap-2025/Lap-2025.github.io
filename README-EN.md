@@ -66,7 +66,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |7|16/4|||||
 |7|16/4|First Test (40%)|||
 |7|P|||||
-|8|22/4|Examples of inductive types: Binary search trees, N-ary trees.|||
+|8|22/4|[Examples of inductive types: Binary search trees, N-ary trees.](slides/en/lec12.ipynb)|||
 |8|23/4|||||
 |8|P|||||
 |8|27/4||Submission of the First Assignment||
