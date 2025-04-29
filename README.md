@@ -87,7 +87,7 @@ qualquer altura):
 |8|24/4|[Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula12.ipynb)|||
 |8|P|||||
 |8|27/4||Entrega Primeiro Trabalho||
-|9|28/4|Apresentação do segundo trabalho|||
+|9|28/4|Apresentação do segundo trabalho|praticas/pt/lab7/pairing_heap.ipynb||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
 |9|-|||||
