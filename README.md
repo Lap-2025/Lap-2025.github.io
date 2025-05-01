@@ -87,27 +87,23 @@ qualquer altura):
 |8|24/4|Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.|||
 |8|P|||||
 |8|27/4||Entrega Primeiro Trabalho||
-|9|28/4|Apresentação do segundo trabalho|||
+|9|28/4|Não houve aula|||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
 |9|-|||||
-|10|5/5|Sistema de Módulos|||
-|10|8/5|Mutabilidade de dados. Memoization|||
+|10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. Continuação das Árvores binárias de pesquisa, Árvores n-árias.|||
+|10|8/5|Sistema de Módulos. |||
 |10|-|||||
-|11|12/5|I/O Assíncrono, Concorrência, Promessas|||
-|11|15/5|Functional Reactive Programming|||
+|11|12/5|Mutabilidade de dados. Memoization|||
+|11|15/5|I/O Assíncrono, Concorrência, Promessas|||
 |11|P|||||
-|11|18/5||Entrega Segundo Trabalho||
-|12|19/5|Apresentação do terceiro trabalho|||
+|12|19/5|Functional Reactive Programming|||
 |12|22/5|Interpretadores|||
 |12|-|||||
 |13|26/5|Interpretadores|||
+|11|28/5||Entrega Segundo e Terceiro Trabalhos||
 |13|29/5|Q&A|||
 |13|30/5|Segundo Teste (60%)|||
 |13|-|||||
-|14|2/6||Entrega Terceiro Trabalho||
 |14|5/6|||||
 |14|-|||||
-
-(As datas dos trabalhos e testes são provisórias e podem ser
-alteradas.)

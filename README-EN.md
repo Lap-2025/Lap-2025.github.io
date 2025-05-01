@@ -70,26 +70,24 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |8|23/4|||||
 |8|P|||||
 |8|27/4||Submission of the First Assignment||
-|9|29/4|Presentation of the Second Assignment|||
+|9|29/4|Module System.|||
 |9|30/4|(No Lecture - Expo FCT)|||
 |9|-|||||
-|10|6/5|Module System|||
+|10|6/5|Presentation of the Second and Third Assignments.|||
 |10|7/5|Data mutability. Memoization.|||
 |10|-|||||
 |11|13/5|Asynchronous I/O, Concurrency, Promises.|||
 |11|14/5|Functional Reactive Programming.|||
 |11|P|||||
-|11|18/5||Submission of the Second Assignment||
-|12|20/5|Presentation of the Third Assignment|||
+|12|20/5|Interpreters|||
 |12|21/5|Interpreters|||
 |12|-|||||
 |13|27/5|Interpreters|||
 |13|28/5|Q&A|||
+|11|28/5||Submission of the Second and Third Assignments||
 |13|30/5|Second Test (60%)|||
 |13|-|||||
 |14|3/6|||||
 |14|4/6|||||
-|14|2/6||Submission of the Third Assignment||
 |14|-|||||
 
-(The assignment and test dates are provisional and may be subject to change.)
