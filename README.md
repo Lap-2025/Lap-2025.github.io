@@ -84,13 +84,13 @@ qualquer altura):
 |7|17/4|(Férias Páscoa)|||
 |7|P|||||
 |8|21/4|(Férias Páscoa)|||
-|8|24/4|Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.|||
+|8|24/4|[Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula12.ipynb)|||
 |8|P|||||
 |8|27/4||Entrega Primeiro Trabalho||
 |9|28/4|Não houve aula|||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
-|9|-|||||
+|9|P|||[Exercícios](praticas/pt/lab7/pairing_heap.ipynb)||
 |10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. Continuação das Árvores binárias de pesquisa, Árvores n-árias.|||
 |10|8/5|Sistema de Módulos. |||
 |10|-|||||
