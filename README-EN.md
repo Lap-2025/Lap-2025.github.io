@@ -73,7 +73,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |9|29/4|Module System.|||
 |9|30/4|(No Lecture - Expo FCT)|||
 |9|-|||||
-|10|6/5|Presentation of the Second and Third Assignments.|||
+|10|6/5|Presentation of the Second and Third Assignments.||[Petri nets](handouts/petrinets.pdf)|
 |10|7/5|Data mutability. Memoization.|||
 |10|-|||||
 |11|13/5|Asynchronous I/O, Concurrency, Promises.|||
