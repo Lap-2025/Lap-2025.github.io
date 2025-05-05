@@ -90,7 +90,7 @@ qualquer altura):
 |9|28/4|Não houve aula|||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
-|9|P|||[Exercícios](praticas/pt/lab7/pairing_heap.ipynb)||
+|9|P|||[Exercícios](praticas/pt/lab7/lab7_pairing_heap.ipynb)||
 |10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. Continuação das Árvores binárias de pesquisa, Árvores n-árias.||[Petri nets](handouts/petrinets.pdf)|
 |10|8/5|Sistema de Módulos. |||
 |10|-|||||
