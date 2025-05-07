@@ -90,8 +90,9 @@ qualquer altura):
 |9|28/4|Não houve aula|||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
-|9|P|||[Exercícios](praticas/pt/lab7/pairing_heap.ipynb)||
+|9|P|||[Exercícios](praticas/pt/lab7/lab7_pairing_heap.ipynb)||
 |10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. Continuação das Árvores binárias de pesquisa, Árvores n-árias.||[Petri nets](handouts/petrinets.pdf)|
+|9|P|Funções de ordem superior em estruturas de dados funcionais.||[Exercícios](praticas/pt/lab8/lab8_pairing_heap_HO.ipynb)|
 |10|8/5|Sistema de Módulos. |||
 |10|-|||||
 |11|12/5|Mutabilidade de dados. Memoization|||
