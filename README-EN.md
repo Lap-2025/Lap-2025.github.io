@@ -72,10 +72,10 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |8|27/4||Submission of the First Assignment||
 |9|29/4|Module System.|||
 |9|30/4|(No Lecture - Expo FCT)|||
-|9|-|||||
+|9|P|||[Exercises](praticas/en/lab7/lab7_pairing_heap.ipynb)||
 |10|6/5|Presentation of the Second and Third Assignments.||[Petri nets](handouts/petrinets.pdf)|
 |10|7/5|Data mutability. Memoization.|||
-|10|-|||||
+|10|P|||[Exercises](praticas/en/lab8/lab8_pairing_heap.ipynb)||
 |11|13/5|Asynchronous I/O, Concurrency, Promises.|||
 |11|14/5|Functional Reactive Programming.|||
 |11|P|||||
