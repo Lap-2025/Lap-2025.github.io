@@ -96,6 +96,7 @@ qualquer altura):
 |10|8/5|Sistema de Módulos. |||
 |10|-|||||
 |11|12/5|Mutabilidade de dados. Memoization|||
+|11|P|[Exercícios](praticas/pt/lab9/lab9_functor_pairing_heap.ipynb)||
 |11|15/5|I/O Assíncrono, Concorrência, Promessas|||
 |11|P|||||
 |12|19/5|Functional Reactive Programming|||
