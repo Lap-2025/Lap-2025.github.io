@@ -78,7 +78,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |10|P|||[Exercises](praticas/en/lab8/lab8_pairing_heap.ipynb)||
 |11|13/5|Asynchronous I/O, Concurrency, Promises.|||
 |11|14/5|Functional Reactive Programming.|||
-|11|P|||||
+|11|P|||[Exercises](praticas/en/lab9/lab_8_functor_pairing_heap.ipynb)||
 |12|20/5|Interpreters|||
 |12|21/5|Interpreters|||
 |12|-|||||
