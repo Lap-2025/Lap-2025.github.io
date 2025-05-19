@@ -84,22 +84,22 @@ qualquer altura):
 |7|17/4|(Férias Páscoa)|||
 |7|P|||||
 |8|21/4|(Férias Páscoa)|||
-|8|24/4|[Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula12.ipynb)|||
+|8|24/4|[Exemplos de tipos indutivos: Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula10.ipynb)|||
 |8|P|||||
 |8|27/4||Entrega Primeiro Trabalho||
 |9|28/4|Não houve aula|||
 |9|30/4|Expo FCT|||
 |9|1/5|(Feriado)|||
 |9|P|||[Exercícios](praticas/pt/lab7/lab7_pairing_heap.ipynb)||
-|10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. Continuação das Árvores binárias de pesquisa, Árvores n-árias.||[Petri nets](handouts/petrinets.pdf)|
-|9|P|Funções de ordem superior em estruturas de dados funcionais.||[Exercícios](praticas/pt/lab8/lab8_pairing_heap_HO.ipynb)|
-|10|8/5|Sistema de Módulos. |||
+|10|5/5|Resolução do Teste. Apresentação do segundo e terceiro trabalho. [Continuação das Árvores binárias de pesquisa, Árvores n-árias.](slides/pt/aula12.pdf)||[Petri nets](handouts/petrinets.pdf)|
+|9|P|[Funções de ordem superior em estruturas de dados funcionais.](slides/pt/aula12.pdf)||[Exercícios](praticas/pt/lab8/lab8_pairing_heap_HO.ipynb)|
+|10|8/5| [Mutabilidade de dados. Memoization](slides/pt/aula14.pdf) |||
 |10|-|||||
-|11|12/5|Mutabilidade de dados. Memoization|||
-|11|15/5|I/O Assíncrono, Concorrência, Promessas|||
+|11|12/5|[Sistema de Módulos.](slides/pt/aula15_.pdf)|||
+|11|15/5|[I/O Assíncrono, Concorrência, Promessas](slides/pt/aula15_.pdf)|||
 |11|P|||||
-|12|19/5|Functional Reactive Programming|||
-|12|22/5|Interpretadores|||
+|12|19/5|[Interpretadores](slides/pt/aula16.pdf)|||
+|12|22/5||||
 |12|-|||||
 |13|26/5|Interpretadores|||
 |11|28/5||Entrega Segundo e Terceiro Trabalhos||
