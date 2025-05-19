@@ -29,7 +29,7 @@ Office hours will be held by appointment via email the day before at the followi
 
 | Teacher              | Office hours                | E-mail                              |
 |----------------------|-----------------------------|-------------------------------------|
-| João Costa Seco      | Monday 15h30 (P2/1-II)      | joao.seco \<at> fct.unl.pt          |
+| João Costa Seco      | Monday 17h30 (P2/1-II)      | joao.seco \<at> fct.unl.pt          |
 | Carla Ferreira       | Friday 10h (P2/14-II)       | carla.ferreira \<at> fct.unl.pt     |
 | Artur Miguel Dias    | Wednesday 16h (room 120-II) | amd \<at> fct.unl.pt                |
 | Ana Catarina Ribeiro | Tuesday 14h (TBD)           | acm.ribeiro \<at> campus.fct.unl.pt |

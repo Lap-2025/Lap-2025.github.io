@@ -47,7 +47,7 @@ O Atendimento em horário de dúvidas será feito com marcação prévia por e-m
 
 | Docente              | Horário                     | E-mail                                 |
 |----------------------|-----------------------------|----------------------------------------|
-| João Costa Seco      | 2ª-feira 15h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
+| João Costa Seco      | 2ª-feira 17h30 (P2/1-II)    | joao.seco \<arroba> fct.unl.pt          |
 | Carla Ferreira       | 6º-feira 10h (P2/14-II)      | carla.ferreira \<arroba> fct.unl.pt     |
 | Artur Miguel Dias    | 4ª-feira 16h (sala 120-II)  | amd \<arroba> fct.unl.pt                |
 | Ana Catarina Ribeiro | 3ª-feira 14h (TBD)          | acm.ribeiro \<arroba> campus.fct.unl.pt |
