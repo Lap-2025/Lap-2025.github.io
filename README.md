@@ -100,6 +100,7 @@ qualquer altura):
 |11|15/5|[I/O Assíncrono, Concorrência, Promessas](slides/pt/aula15_.pdf)|[Mais concorrência](slides/en/concurrency.ipynb)||
 |11|P|||||
 |12|19/5|[Interpretadores](slides/pt/aula16.pdf)|||
+|12|P|Apoio aos Projectos.|[Petri nets](handouts/petrinets.pdf)|
 |12|22/5|[Interpretadores](slides/pt/Interpreters.ipynb)|||
 |12|-|||||
 |13|26/5||||
