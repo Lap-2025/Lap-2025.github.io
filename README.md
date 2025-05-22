@@ -97,12 +97,12 @@ qualquer altura):
 |10|-|||||
 |11|12/5|[Sistema de Módulos.](slides/pt/aula15_.pdf)|||
 |11|P|Functores - Estruturas de Dados Modulares|[Exercícios](praticas/pt/lab9/lab9_functor_pairing_heap.ipynb)||
-|11|15/5|[I/O Assíncrono, Concorrência, Promessas](slides/pt/aula15_.pdf)|||
+|11|15/5|[I/O Assíncrono, Concorrência, Promessas](slides/pt/aula15_.pdf)|[Mais concorrência](slides/en/concurrency.ipynb)||
 |11|P|||||
 |12|19/5|[Interpretadores](slides/pt/aula16.pdf)|||
-|12|22/5||||
+|12|22/5|[Interpretadores](slides/pt/Interpreters.ipynb)|||
 |12|-|||||
-|13|26/5|Interpretadores|||
+|13|26/5||||
 |11|28/5||Entrega Segundo e Terceiro Trabalhos||
 |13|29/5|Q&A|||
 |13|30/5|Segundo Teste (60%)|||

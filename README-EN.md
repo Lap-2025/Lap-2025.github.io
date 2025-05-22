@@ -70,19 +70,19 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |8|23/4|||||
 |8|P|||||
 |8|27/4||Submission of the First Assignment||
-|9|29/4|Module System.|||
+|9|29/4|[Module System.](slides/en/lec12.pdf)|||
 |9|30/4|(No Lecture - Expo FCT)|||
 |9|P|||[Exercises](praticas/en/lab7/lab7_pairing_heap.ipynb)||
 |10|6/5|Presentation of the Second and Third Assignments.||[Petri nets](handouts/petrinets.pdf)|
-|10|7/5|Data mutability. Memoization.|||
+|10|7/5|[Data mutability. Memoization.](slides/en/lec14.pdf)|[More Memoization](slides/en/memoization.ipynb)||
 |10|P|||[Exercises](praticas/en/lab8/lab8_pairing_heap_HO.ipynb)||
-|11|13/5|Asynchronous I/O, Concurrency, Promises.|||
-|11|14/5|Functional Reactive Programming.|||
+|11|13/5|[Asynchronous IO, Concurrency, Promises](slides/en/LAP%202025-Modules-EN.pdf)|[More concurrency](slides/en/concurrency.ipynb)||
+|11|14/5|(No lecture)|||
 |11|P|||[Exercises](praticas/en/lab9/lab_8_functor_pairing_heap.ipynb)||
-|12|20/5|Interpreters|||
-|12|21/5|Interpreters|||
+|12|20/5|[Interpreters](slides/en/lec16.pdf)|||
+|12|21/5|[Interpreters](slides/en/Interpreters.ipynb)|||
 |12|-|||||
-|13|27/5|Interpreters|||
+|13|27/5|Functional Reactive Programming.|||
 |13|28/5|Q&A|||
 |11|28/5||Submission of the Second and Third Assignments||
 |13|30/5|Second Test (60%)|||
