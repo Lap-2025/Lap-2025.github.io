@@ -64,7 +64,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |6|P|Exercises|[Exercises](praticas/en/lab5/lab5_comb_higer_order_fun.ipynb)||
 |7|14/4|Q&A|[Midterm example](tests/t1/en/teste_modelo_2324.ipynb)/[Midterm 2024](tests/t1/en/t1-2324.ipynb)|[Midterm 2024 (Solution)](tests/t1/en/solutions/t1-2324-solutions.ipynb)|
 |7|16/4|||||
-|7|16/4|First Test (40%)|||
+|7|16/4|First Test (40%)|[Test Solutions](slides/en/t1-2425.ipynb)||
 |7|P|||||
 |8|22/4|[Examples of inductive types: Binary search trees, N-ary trees.](slides/en/lec12.ipynb)|||
 |8|23/4|||||
