@@ -106,7 +106,7 @@ qualquer altura):
 |13|26/5||||
 |11|28/5||Entrega Segundo e Terceiro Trabalhos||
 |13|29/5|Q&A|||
-|13|30/5|Segundo Teste (60%)|||
+|13|30/5|Segundo Teste (60%)|[Sample test](tests/t2/teste_en.pdf)||
 |13|-|||||
 |14|5/6|||||
 |14|-|||||

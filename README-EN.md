@@ -85,7 +85,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |13|27/5|Functional Reactive Programming.|||
 |13|28/5|Q&A|||
 |11|28/5||Submission of the Second and Third Assignments||
-|13|30/5|Second Test (60%)|||
+|13|30/5|Second Test (60%)|[Sample test](tests/t2/teste_en.pdf)||
 |13|-|||||
 |14|3/6|||||
 |14|4/6|||||
